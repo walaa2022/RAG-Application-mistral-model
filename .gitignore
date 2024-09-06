@@ -1,0 +1,6 @@
+capybarahermes-2.5-mistral-7b.Q3_K_M.gguf
+ragChatAppEnv/
+__pycache__
+vectorstore
+Questions/
+.chainlit
